@@ -5,7 +5,9 @@ Leveraging a robust backend, the app efficiently retrieves and categorizes book 
 Users can seamlessly browse through various book categories, making it easy to discover new titles or find specific books of interest. 
 By combining Java's backend capabilities with JavaFX's rich UI features, the app delivers a streamlined and engaging book discovery experience.
 
-Key features:
+<br>
+
+<heading3>Key features:</heading3>
 
 Data-driven book display: Fetches book information from a server.
 Categorized book organization: Presents books in easily navigable categories.
